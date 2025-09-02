@@ -4,7 +4,6 @@ These are the Windows apps that I use
 ## Utilities
 
 #### Uncategorized
--   [**Everything**](https://www.voidtools.com/downloads/) - Should've been the default Windows search
 -   [**OBS Studio**](https://obsproject.com/download) - Screen recording, livestreaming
 -   [**Revo Uninstaller**](https://www.revouninstaller.com/start-freeware-download/) - Better than CPL
 -   [**SuperF4**](https://stefansundin.github.io/superf4/) - `ctrl + alt + F4`
@@ -52,7 +51,7 @@ These are the Windows apps that I use
 -   [**FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.1.1-full_build.7z) - Needed for Audacity
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
 -   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
--   [**Python**](https://www.python.org/downloads/) - Do I even need to explain?
+-   [**Python**](https://www.python.org/downloads/) - Technically a software
 -   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My Sublime configuration
 
 ## Sharing files
