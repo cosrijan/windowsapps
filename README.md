@@ -56,7 +56,6 @@ These are the Windows apps that I use
 
 ## Sharing files
 -   [**Localsend**](https://localsend.org/download?os=windows) - For devices connected to the same wifi
--   [**Blip**](https://blip.net/download/windows) - Works with any device but requires login
 -   [**Soulseek QT**](https://www.slsknet.org/news/node/1) - P2P sharing (mainly music)
 
 ## Drivers (only for my devices)
