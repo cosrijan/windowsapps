@@ -36,13 +36,13 @@ These are the Windows apps that I use
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
 -   [**VS Code**](https://code.visualstudio.com/Download/) - The most versatile free IDE
 -   [**Sublime Text**](https://www.sublimetext.com/download/) - Lightweight code editor
--   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html/) - For typing my mother-tongue
+-   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html/) - For typing in Bengali
 
 ## Quality of life
 
 -   [**Twinkle Tray**](https://twinkletray.com/) - Should've been the default brightness slider
--   [**F.lux**](https://justgetflux.com/) - 
--   [**Nirsoft Icons Extractor**](https://www.afterdawn.com/software/desktop/image_editing/nirsoft_iconsextract.cfm/) - Needed sometimesNight light for Windows
+-   [**F.lux**](https://justgetflux.com/) - Night light for Windows
+-   [**Nirsoft Icons Extractor**](https://www.afterdawn.com/software/desktop/image_editing/nirsoft_iconsextract.cfm/) - Good to have
 -   [**SVG Thumbnail Extension**](https://github.com/ThioJoe/win-svg-thumbs-rust/releases) - Made by ThioJoe
 -   [**Winaero Tweaker**](https://winaerotweaker.com/download/) - Lots of useful tweaks
 -   [**Transcribe!**](https://www.seventhstring.com/xscribe/download_windows.html) - For learning music
@@ -51,8 +51,8 @@ These are the Windows apps that I use
 
 -   [**FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.1.1-full_build.7z) - Needed for Audacity
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
--   [**Java Development Kit**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Read the name
--   [**Python**](https://www.python.org/downloads/) - Just the name
+-   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
+-   [**Python**](https://www.python.org/downloads/) - Do I even need to explain?
 -   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My Sublime configuration
 
 ## Sharing files
