@@ -52,7 +52,7 @@ These are the Windows apps that I use
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
 -   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
 -   [**Python**](https://www.python.org/downloads/) - Technically a software
--   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My Sublime configuration
+-   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My configuration
 
 ## Sharing files
 -   [**Localsend**](https://localsend.org/download?os=windows) - For devices connected to the same wifi
