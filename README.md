@@ -31,7 +31,8 @@ These are the Windows apps that I use
 
 ## Productivity
 
--   [**Microsoft Office**](https://massgrave.dev/) - LTSC Professional Plus 2024
+-   [**Microsoft Office**](https://www.office.com/) - LTSC Professional Plus 2024
+-   [**OnlyOffice**](https://www.onlyoffice.com/download-desktop.aspx?from=desktop) - Free alternative
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
 -   [**VS Code**](https://code.visualstudio.com/Download/) - The most versatile free IDE
 -   [**Sublime Text**](https://www.sublimetext.com/download/) - Lightweight code editor
