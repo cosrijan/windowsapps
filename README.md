@@ -68,6 +68,7 @@ These are the Windows apps that I use
 ## Fonts
 -   [**Adobe Garamond Pro**](https://www.cdnfonts.com/download/font/66a55e6f61387ba4efe9067a2aed2765) - The Harry Potter font
 -   [**Edwardian Script ITC**](https://freefonts.co/downloadfiles/zippedfontstyles/e/d/edwardian-script-itc-regular.zip?st=dQvh0wdT5H7dCOcnqZk4lQ&e=1756996783) - The best script font
+-   [**Fira Code**](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip) - A classic IDE font
 -   [**Helvetica**](https://freefontsfamily.com/download/helvetica-font) - Classic sans-serif font
 -   [**Inter**](https://dn.freefontsfamily.com/download/inter-font/) - Modern sans-serif font
 -   [**JetBrains Mono**](https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip) - The best IDE font
