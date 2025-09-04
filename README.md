@@ -53,6 +53,8 @@ These are the Windows apps that I use
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
 -   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
 -   [**Python**](https://www.python.org/downloads/) - Technically a software
+-   [**MacOS Sierra Cursors**](https://drive.google.com/file/d/1k0qwlaKpOOF1oZw36m-X2R_mEXkUoXGb/view?usp=sharing) - I like their looks
+-   [**Segoe UI Emoji**](https://drive.google.com/file/d/1gW0blURssbals9aC4b5F85bqPphio2R7/view?usp=sharing) - For Windows 10
 
 ## Sharing files
 -   [**Localsend**](https://localsend.org/download?os=windows) - For devices connected to the same wifi
@@ -62,3 +64,11 @@ These are the Windows apps that I use
 -   [**Pentablet**](https://www.xp-pen.com/download/star-g640.html) - XP-Pen Star G640
 -   [**Printer**](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506) - Epson L3211
 -   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My configuration
+
+## Fonts
+-   [**Adobe Garamond Pro**](https://drive.google.com/file/d/1XfXRXrH8HqbPL5wLWKdVttAMPZWd4nmG/view?usp=drive_link) - The Harry Potter font
+-   [**Edwardian Script ITC**](https://drive.google.com/file/d/134YsrUfHZ2bJz58g_SdJexhfU8cOpWEe/view?usp=sharing) - The best script font
+-   [**Helvetica**](https://drive.google.com/file/d/1Wzevdrz3aXAFTobutNPdWd7MVoXckLXz/view?usp=sharing) - Classic sans-serif font
+-   [**Inter**](https://drive.google.com/file/d/1ktWOmi46EqEnawEiyyerKWTI1OG_0KBs/view?usp=drive_link) - Modern sans-serif font
+-   [**JetBrains Mono**](https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip) - The best IDE font
+-   [**SF Pro**](https://drive.google.com/file/d/1mBr2N1bbr4RAg2zJEZbJE0_z0EWA4-7k/view?usp=sharing) - The Apple font
