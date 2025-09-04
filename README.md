@@ -66,9 +66,9 @@ These are the Windows apps that I use
 -   [**Sublime Settings**](https://drive.google.com/file/d/1YIa8wCmnbLZqI_tDdxjauMbLS2kALtl-/view?usp=sharing) - My configuration
 
 ## Fonts
--   [**Adobe Garamond Pro**](https://drive.google.com/file/d/1XfXRXrH8HqbPL5wLWKdVttAMPZWd4nmG/view?usp=drive_link) - The Harry Potter font
--   [**Edwardian Script ITC**](https://drive.google.com/file/d/134YsrUfHZ2bJz58g_SdJexhfU8cOpWEe/view?usp=sharing) - The best script font
--   [**Helvetica**](https://drive.google.com/file/d/1Wzevdrz3aXAFTobutNPdWd7MVoXckLXz/view?usp=sharing) - Classic sans-serif font
--   [**Inter**](https://drive.google.com/file/d/1ktWOmi46EqEnawEiyyerKWTI1OG_0KBs/view?usp=drive_link) - Modern sans-serif font
+-   [**Adobe Garamond Pro**](https://www.cdnfonts.com/download/font/66a55e6f61387ba4efe9067a2aed2765) - The Harry Potter font
+-   [**Edwardian Script ITC**](https://freefonts.co/downloadfiles/zippedfontstyles/e/d/edwardian-script-itc-regular.zip?st=dQvh0wdT5H7dCOcnqZk4lQ&e=1756996783) - The best script font
+-   [**Helvetica**](https://freefontsfamily.com/download/helvetica-font) - Classic sans-serif font
+-   [**Inter**](https://dn.freefontsfamily.com/download/inter-font/) - Modern sans-serif font
 -   [**JetBrains Mono**](https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip) - The best IDE font
 -   [**SF Pro**](https://drive.google.com/file/d/1mBr2N1bbr4RAg2zJEZbJE0_z0EWA4-7k/view?usp=sharing) - The Apple font
