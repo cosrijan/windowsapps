@@ -7,6 +7,7 @@ These are the Windows apps that I use
 -   [**OBS Studio**](https://obsproject.com/download) - Screen recording, livestreaming
 -   [**Revo Uninstaller**](https://www.revouninstaller.com/start-freeware-download/) - Better than CPL
 -   [**SuperF4**](https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe) - `ctrl + alt + F4`
+-   [**WizTree**](https://www.diskanalyzer.com/download) - WinDirStat but faster
 
 #### Archiver
 -   [**7-Zip**](https://www.7-zip.org/download.html/) - FOSS file archiver
