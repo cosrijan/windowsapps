@@ -73,4 +73,5 @@ These are the Windows apps that I use
 -   [**Input Mono**](https://input.djr.com/build/?fontSelection=fourStyleFamily&regular=InputMono-Regular&italic=InputMono-Italic&bold=InputMono-Bold&boldItalic=InputMono-BoldItalic&a=0&g=ss&i=serif&l=serifs_round&zero=0&asterisk=0&braces=straight&preset=sourcecode&line-height=1.2&accept=I+do) - Customized to preference
 -   [**JetBrains Mono**](https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip) - The best IDE font
 -   [**SF Pro**](https://drive.google.com/file/d/1mBr2N1bbr4RAg2zJEZbJE0_z0EWA4-7k/view?usp=sharing) - The Apple font
--   [**SolaimanLipi**](https://ekushey.org/download-font?cp-ekushey-font-id=70) - The Bengali font
+-   [**SolaimanLipi**](https://ekushey.org/download-font?cp-ekushey-font-id=70) - The Unicode Bengali font
+-   [**SutonnyMJ**](https://banglafonts.org/downloadfiles/zippedfontstyles/s/u/sutonnymj-regular.zip?st=lEO8QEZO7518knXA5ie92w&e=1757257416) - The OG Bengali font
