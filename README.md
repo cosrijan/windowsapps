@@ -37,7 +37,7 @@ These are the Windows apps that I use
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
 -   [**VS Code**](https://code.visualstudio.com/Download/) - The most versatile free IDE
 -   [**Sublime Text**](https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads) - Lightweight code editor
--   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html/) - For typing in Bengali
+-   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html) - For typing in Bengali
 
 ## Quality of life
 
