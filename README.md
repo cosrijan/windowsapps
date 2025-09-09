@@ -65,6 +65,7 @@ These are the Windows apps that I use
 -   [**Pentablet**](https://www.xp-pen.com/download/star-g640.html) - XP-Pen Star G640
 -   [**Printer**](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506) - Epson L3211
 -   [**Sublime Settings**](https://drive.google.com/file/d/1i14PQQ2zaIwdKEcdOJTdq46bPoX2-Njm/view?usp=sharing) - My preferences and themes
+-   [**Windows 7 Games**](https://win7games.com/download/Windows7Games_for_Windows_11_10_8.zip) - I like to have them
 
 ## Fonts
 -   [**Adobe Garamond Pro**](https://www.cdnfonts.com/download/font/66a55e6f61387ba4efe9067a2aed2765) - The Harry Potter font
