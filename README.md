@@ -29,7 +29,7 @@ These are the Windows apps that I use
 
 -   [**VLC Media Player**](https://www.videolan.org/vlc/) - The best media player
 -   [**Audacity**](https://www.audacityteam.org/download/windows/) - The best audio manipulation software
--   [**Foobar2000**](https://www.foobar2000.org/windows) - Bulk audio player
+-   [**Foobar2000**](https://www.foobar2000.org/windows) - Bulk audio player + [encoder pack](https://www.foobar2000.org/encoderpack)
 
 ## Productivity
 
