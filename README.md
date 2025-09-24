@@ -37,6 +37,7 @@ These are the Windows apps that I use
 -   [**OnlyOffice**](https://www.onlyoffice.com/download-desktop.aspx?from=desktop) - Free alternative
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
 -   [**VS Code**](https://code.visualstudio.com/Download/) - The most versatile free IDE
+-   [**Eclipse**](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-06/R/eclipse-committers-2023-06-R-win32-x86_64.zip) - Java IDE (old version)
 -   [**Sublime Text**](https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads) - Lightweight code editor
 -   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html) - For typing in Bengali
 
@@ -70,7 +71,6 @@ These are the Windows apps that I use
 
 ## Fonts
 -   [**Adobe Garamond Pro**](https://www.cdnfonts.com/download/font/66a55e6f61387ba4efe9067a2aed2765) - The Harry Potter font
--   [**Adwaita Mono**](https://drive.google.com/file/d/164Ae3ZI0cqZCWKaZW-OEr_yUTpORuTTN/view?usp=sharing) - Good mono font
 -   [**Edwardian Script ITC**](https://freefonts.co/downloadfiles/zippedfontstyles/e/d/edwardian-script-itc-regular.zip?st=dQvh0wdT5H7dCOcnqZk4lQ&e=1756996783) - The best script font
 -   [**Helvetica**](https://freefontsfamily.com/download/helvetica-font) - Classic sans-serif font
 -   [**Input Mono**](https://input.djr.com/build/?fontSelection=fourStyleFamily&regular=InputMono-Regular&italic=InputMono-Italic&bold=InputMono-Bold&boldItalic=InputMono-BoldItalic&a=0&g=ss&i=serif&l=serifs_round&zero=0&asterisk=0&braces=straight&preset=sourcecode&line-height=1.2&accept=I+do) - Customized to preference
