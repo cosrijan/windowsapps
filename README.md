@@ -50,9 +50,10 @@ These are the Windows apps that I use
 -   [**Winaero Tweaker**](https://winaerotweaker.com/download/) - Lots of useful tweaks
 -   [**Transcribe!**](https://www.seventhstring.com/xscribe/download_windows.html) - For learning music
 
-## Not a software
+## Not application softwares
 
 -   [**FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.1.1-full_build.7z) - Needed for Audacity
+-   [**Spleeter GUI**](https://spleetergui.com/Download) - Audio haven
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
 -   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
 -   [**Python**](https://www.python.org/downloads/) - Technically a software
