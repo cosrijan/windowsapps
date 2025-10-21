@@ -19,8 +19,8 @@ These are the Windows apps that I use
 -   [**Notepad++**](https://notepad-plus-plus.org/downloads/) - Should've been the default text editor
 
 #### Downloads
--   [**Free Download Manager**](https://www.freedownloadmanager.org/download.htm/) - Can also download torrents
 -   [**qBittorrent**](https://www.qbittorrent.org/download) - Free torrent downloader
+-   [**Free Download Manager**](https://www.freedownloadmanager.org/download.htm/) - Can also download torrents
 
 #### Privacy
 -   [**Cloudflare WARP**](https://1111-releases.cloudflareclient.com/win/latest/) - Free DNS proxy
@@ -37,8 +37,7 @@ These are the Windows apps that I use
 -   [**Microsoft Office**](https://massgrave.dev/) - LTSC Professional Plus 2024
 -   [**OnlyOffice**](https://www.onlyoffice.com/download-desktop.aspx?from=desktop) - Free alternative
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
--   [**VS Code**](https://code.visualstudio.com/Download/) - The most versatile free IDE
--   [**Eclipse**](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-06/R/eclipse-committers-2023-06-R-win32-x86_64.zip) - Java IDE (old version)
+-   [**VS Code**](https://code.visualstudio.com/Download/) - Best free IDE
 -   [**Sublime Text**](https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads) - Lightweight code editor
 -   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html) - For typing in Bengali
 
@@ -58,7 +57,7 @@ These are the Windows apps that I use
 -   [**MSYS2 compiler**](https://www.msys2.org/) - For C and C++
 -   [**JDK**](https://www.oracle.com/java/technologies/downloads/#jdk24-windows) - Java Development Kit
 -   [**Python**](https://www.python.org/downloads/) - Technically a software
--   [**MacOS Sierra Cursors**](https://drive.google.com/file/d/1k0qwlaKpOOF1oZw36m-X2R_mEXkUoXGb/view?usp=sharing) - I like their looks
+-   [**MacOS Tahoe Cursors**](https://drive.google.com/file/d/1Ob2I73Ioyondd8wYGs9WbJaWE1Fn4NpB/view?usp=sharing) - I like their looks
 -   [**Segoe UI Emoji**](https://drive.google.com/file/d/1gW0blURssbals9aC4b5F85bqPphio2R7/view?usp=sharing) - For Windows 10
 
 ## Sharing files
