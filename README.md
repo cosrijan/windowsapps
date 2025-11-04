@@ -1,6 +1,6 @@
 # Windows Apps
 These are the Windows apps that I use
-[![Huggle](https://huggle.jdf2.org/sig/srijan.png)](http://huggle.jdf2.org/hug/srijan)
+
 ## Utilities
 
 #### Uncategorized
@@ -79,3 +79,6 @@ These are the Windows apps that I use
 -   [**SF Pro**](https://drive.google.com/file/d/1mBr2N1bbr4RAg2zJEZbJE0_z0EWA4-7k/view?usp=sharing) - The Apple font
 -   [**SolaimanLipi**](https://ekushey.org/download-font?cp-ekushey-font-id=70) - The Unicode Bengali font
 -   [**SutonnyMJ**](https://banglafonts.org/downloadfiles/zippedfontstyles/s/u/sutonnymj-regular.zip?st=lEO8QEZO7518knXA5ie92w&e=1757257416) - The OG Bengali font
+
+
+[![Huggle](https://huggle.jdf2.org/sig/srijan.png)](http://huggle.jdf2.org/hug/srijan)
