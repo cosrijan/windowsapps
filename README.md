@@ -1,6 +1,6 @@
 # Windows Apps
 These are the Windows apps that I use
-[!Huggle](https://huggle.jdf2.org/sig/jdf2.png)](http://huggle.jdf2.org/hug/srijan)
+[![Huggle](https://huggle.jdf2.org/sig/jdf2.png)](http://huggle.jdf2.org/hug/srijan)
 ## Utilities
 
 #### Uncategorized
