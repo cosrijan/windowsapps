@@ -34,7 +34,7 @@ These are the Windows apps that I use
 
 ## Productivity
 
--   [**Microsoft Office**](https://massgrave.dev/) - LTSC Professional Plus 2024
+-   [**Microsoft Office**](https://massgrave.dev/) - Now Microsoft 365
 -   [**OnlyOffice**](https://www.onlyoffice.com/download-desktop.aspx?from=desktop) - Free alternative
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
 -   [**VS Code**](https://code.visualstudio.com/Download/) - Best free IDE
@@ -48,7 +48,6 @@ These are the Windows apps that I use
 -   [**Nirsoft Icons Extractor**](https://www.afterdawn.com/software/desktop/image_editing/nirsoft_iconsextract.cfm/) - Good to have
 -   [**SVG Thumbnail Extension**](https://github.com/ThioJoe/win-svg-thumbs-rust/releases) - Made by ThioJoe
 -   [**Winaero Tweaker**](https://winaerotweaker.com/download/) - Lots of useful tweaks
--   [**Transcribe!**](https://www.seventhstring.com/xscribe/download_windows.html) - For learning music
 
 ## Not application softwares
 
