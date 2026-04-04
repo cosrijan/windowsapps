@@ -39,6 +39,7 @@ Shotout to [**Bro Code**](https://www.youtube.com/@BroCodez)
 -   [**Microsoft Office**](https://massgrave.dev/) - Now Microsoft 365
 -   [**OnlyOffice**](https://www.onlyoffice.com/download-desktop.aspx?from=desktop) - Free alternative
 -   [**Obsidian**](https://obsidian.md/) - The best note-taking software
+-   [**Dev-C++**](https://github.com/Embarcadero/Dev-Cpp/releases/download/v6.3/Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup.zip) - No nonsense C/C++ IDE
 -   [**VS Code**](https://code.visualstudio.com/Download/) - Best free IDE
 -   [**Sublime Text**](https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads) - Lightweight code editor
 -   [**Avro Keyboard**](https://www.omicronlab.com/avro-keyboard-download.html) - For typing in Bengali
