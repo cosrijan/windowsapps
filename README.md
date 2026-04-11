@@ -31,6 +31,7 @@ Shotout to [**Bro Code**](https://www.youtube.com/@BroCodez)
 ## Multimedia
 
 -   [**VLC Media Player**](https://www.videolan.org/vlc/) - The best media player
+-   [**HoneyView**](https://www.bandisoft.com/honeyview/dl.php?web) - Fast image viewer
 -   [**Audacity**](https://www.audacityteam.org/download/windows/) - The best audio manipulation software
 -   [**Foobar2000**](https://www.foobar2000.org/windows) - Bulk audio player + [encoder pack](https://www.foobar2000.org/encoderpack)
 
