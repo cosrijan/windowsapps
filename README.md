@@ -32,6 +32,7 @@ Shotout to [**Bro Code**](https://www.youtube.com/@BroCodez)
 
 -   [**VLC Media Player**](https://www.videolan.org/vlc/) - The best media player
 -   [**HoneyView**](https://www.bandisoft.com/honeyview/dl.php?web) - Fast image viewer
+-   [**Paint 3D**](https://drive.google.com/file/d/1den6yC5mcJ2b3UOqtrAXoQJnxwzs0nTL/view?usp=drive_link) - I use it
 -   [**Audacity**](https://www.audacityteam.org/download/windows/) - The best audio manipulation software
 -   [**Foobar2000**](https://www.foobar2000.org/windows) - Bulk audio player + [encoder pack](https://www.foobar2000.org/encoderpack)
 
